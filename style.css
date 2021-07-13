@@ -1,0 +1,13 @@
+.question_box{
+    background-color: cornflowerblue;
+    box-shadow: darkslateblue;
+    border-radius: 5px;
+    padding: 3em;
+    box-shadow: 0 0 10px 2px;
+    font-size: medium;
+    line-height: 2em;
+}
+
+#buttons{
+    padding-bottom: 5em;
+}
